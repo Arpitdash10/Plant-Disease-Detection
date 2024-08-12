@@ -11,7 +11,8 @@ This project focuses on the detection of plant diseases using machine learning t
 - Results
 - Installation
 - Usage
-- Contributing## Overview
+- Contributing
+## Overview
 The Plant Disease Detection project leverages deep learning models to classify and detect diseases in plant leaves. The model is trained on a dataset containing images of healthy and diseased leaves and is capable of predicting the type of disease affecting the plant.
 
 ## Dataset
